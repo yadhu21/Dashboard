@@ -42,7 +42,7 @@ A dynamic and interactive web application built with **Streamlit** that enables 
 
 ```plaintext
 ├── Data.csv
-├── app.py               # Main Streamlit application
+├── dashboard.py               # Main Streamlit application
 ├── README.md            # Project documentation (this file)
 ```
 
